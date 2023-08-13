@@ -1,0 +1,28 @@
+{
+  "name": "resonate",
+  "version": "1.0.0-pre",
+  "description": "A very simple web framework that compiles into HTML and JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devitzer/Resonate"
+  },
+  "keywords": [
+    "resonate",
+    "web",
+    "framework",
+    "web-framework",
+    "react",
+    "vue",
+    "svelte"
+  ],
+  "author": "devitzer123",
+  "license": "CC-BY-ND-3.0",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "localtunnel": "^2.0.2"
+  }
+}
