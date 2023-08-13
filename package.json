@@ -1,6 +1,6 @@
 {
   "name": "resonate",
-  "version": "1.0.0-pre",
+  "version": "1.0.1-pre",
   "description": "A very simple web framework that compiles into HTML and JS.",
   "main": "index.js",
   "scripts": {
